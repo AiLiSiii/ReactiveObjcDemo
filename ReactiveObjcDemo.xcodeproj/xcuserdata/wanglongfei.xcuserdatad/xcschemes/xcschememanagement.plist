@@ -7,7 +7,25 @@
 		<key>ReactiveObjcDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5BAF1FDA229F7DE90033732E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5BAF1FF2229F7DEB0033732E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5BAF1FFD229F7DEB0033732E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
